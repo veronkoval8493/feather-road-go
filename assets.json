@@ -1,0 +1,49 @@
+{
+  "assets": [
+    {
+      "name": "icon_1024",
+      "type": "icon",
+      "prompt": "App icon, one single glossy 3D golden wooden signpost arrow pointer, centered, deep navy radial gradient background, crisp, no text"
+    },
+    {
+      "name": "bg_loader",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game loader background, deep navy night farmland, warm golden rim light, cinematic, no text, no UI elements"
+    },
+    {
+      "name": "bg_menu",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game menu background, cozy cartoon farm map from above with winding paths, fields and barns, warm cream and sage palette, vibrant, 3D render, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "prompt": "Vertical 9:16 mobile game background, soft blurred cozy farmyard at dusk, low contrast for UI overlay, no text, no UI elements"
+    },
+    {
+      "name": "sprite_grain_sack",
+      "type": "sprite",
+      "prompt": "One single cute cartoon burlap grain sack tied with rope, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_feeder",
+      "type": "sprite",
+      "prompt": "One single cute cartoon metal chicken feeder trough, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_chicken",
+      "type": "sprite",
+      "prompt": "One single cute cartoon white hen character standing, friendly, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_signpost",
+      "type": "sprite",
+      "prompt": "One single cute cartoon wooden arrow signpost, centered icon, glossy 3D render, isolated on plain white, no other objects"
+    },
+    {
+      "name": "sprite_star",
+      "type": "sprite",
+      "prompt": "One single glossy golden cartoon star, centered icon, 3D render, isolated on plain white, no other objects"
+    }
+  ]
+}

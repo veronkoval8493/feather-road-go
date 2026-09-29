@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches AppColors.deepDark in lib/theme.dart so the native launch
+         window reads as the app's own dark loader instead of a white flash.
+         The capture harness grabs the pre-first-frame window on a slow cold
+         start; a white 15KB frame is discarded as "too small" and the run
+         ends up with no loader screenshot at all. -->
+    <color name="splash_bg">#FF0E141C</color>
+</resources>
