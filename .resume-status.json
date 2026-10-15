@@ -1,0 +1,8 @@
+{
+  "outcome": "succeeded",
+  "fix_type": "transient",
+  "resume_from": "codegen",
+  "message": "Pipeline resumed from codegen and finished.",
+  "log": "projects/FeatherRoadGo/.resume-20261015-021157.log",
+  "attempted_at_epoch": 1792024970
+}
